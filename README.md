@@ -7,7 +7,7 @@ Did exploratory analysis, where the objective is to understand how the data is d
 This dataset consists of **16598 rows** and **11 columns**. The following is a description of the dataset that will be analyzed to help understand what data we will use in this project.
 
 **Contents**:
-* `Rank` = The games rank (unique).
+* `Rank` = The games rank.
 * `Name` = The games name.
 * `Platform` = Platform of the games release (i.e. PC,PS4, etc.).
 * `Year` = Year of the game's release.
@@ -20,5 +20,11 @@ This dataset consists of **16598 rows** and **11 columns**. The following is a d
 * `Global_Sales` = Total worldwide sales.
 
 ## Steps
+The following are steps to carried out in this project.
+
+1. Data understanding
+2. Data preparation
+3. Clustering
+4. Visualization
 
 ## Conclusion
